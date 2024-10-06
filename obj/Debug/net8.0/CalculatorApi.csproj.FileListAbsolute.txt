@@ -17,6 +17,7 @@
 /Users/suryaprakash/Documents/CAMBRIAN/ASSIGNMENTS/Backend/Assignment 3/CalculatorApi/obj/Debug/net8.0/CalculatorApi.csproj.CoreCompileInputs.cache
 /Users/suryaprakash/Documents/CAMBRIAN/ASSIGNMENTS/Backend/Assignment 3/CalculatorApi/obj/Debug/net8.0/CalculatorApi.MvcApplicationPartsAssemblyInfo.cs
 /Users/suryaprakash/Documents/CAMBRIAN/ASSIGNMENTS/Backend/Assignment 3/CalculatorApi/obj/Debug/net8.0/CalculatorApi.MvcApplicationPartsAssemblyInfo.cache
+/Users/suryaprakash/Documents/CAMBRIAN/ASSIGNMENTS/Backend/Assignment 3/CalculatorApi/obj/Debug/net8.0/CalculatorApi.sourcelink.json
 /Users/suryaprakash/Documents/CAMBRIAN/ASSIGNMENTS/Backend/Assignment 3/CalculatorApi/obj/Debug/net8.0/staticwebassets.build.json
 /Users/suryaprakash/Documents/CAMBRIAN/ASSIGNMENTS/Backend/Assignment 3/CalculatorApi/obj/Debug/net8.0/staticwebassets.development.json
 /Users/suryaprakash/Documents/CAMBRIAN/ASSIGNMENTS/Backend/Assignment 3/CalculatorApi/obj/Debug/net8.0/staticwebassets/msbuild.CalculatorApi.Microsoft.AspNetCore.StaticWebAssets.props
